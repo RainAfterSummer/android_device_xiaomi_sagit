@@ -1,5 +1,2 @@
 # IR
-/dev/peel_ir                                                  u:object_r:ir_device:s0
-
-# RevengeOS hardware
-/(vendor|system/vendor)/bin/hw/vendor\.revengeos\.touch@1\.0-service\.sagit   u:object_r:hal_revengeos_touch_default_exec:s0
+/dev/peel_ir                                                  u:object_r:ir_device:s0s
